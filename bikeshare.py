@@ -1,5 +1,4 @@
-#final version
-
+# This is the bikeshare python. You can open it in terminal and ask cool statistic questions about bikeshare data!
 import time
 import pandas as pd
 import numpy as np
