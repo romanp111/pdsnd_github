@@ -19,4 +19,4 @@ new_york_city.csv
 chicago.csv
 
 ### Credits
-made by romanp111 with guidance of Udacity
+*made by romanp111 with guidance of Udacity*
