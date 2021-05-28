@@ -1,5 +1,4 @@
-#final version
-
+# This is the bikeshare python. You can open it in terminal and ask cool statistic questions about bikeshare data!
 import time
 import pandas as pd
 import numpy as np
@@ -56,7 +55,7 @@ def get_filters():
 
 
 
-
+#This code loads the data!
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
